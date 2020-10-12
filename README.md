@@ -12,4 +12,4 @@ Since all the text of the trials from 1674 to 1913 are available, we can ask the
 
 The goal of this project is to explore classifiers that predict the outcomes of trials. That is, the instances for classification are the transcripts of trials, and the labels are either guilty (denoted by 0) or not guilty (denoted by 1).
 
-To this end, you will use various feature representa
+To this end, you will use various feature representations of the data (including ones you may develop) and the different learning algorithms we see in class.
