@@ -1,5 +1,12 @@
 # old-bailey-decisions
-Kaggle-based project for Machine Learning 2020.
+
+[View project on kaggle](https://www.kaggle.com/c/uofu-ml-fall-2020/overview)
+
+[View leaderboard](https://www.kaggle.com/c/uofu-ml-fall-2020/leaderboard)
+
+[Project report](Project-Final-Report.pdf)
+
+## Predicting trial decisions from transcripts.
 
 The Old Bailey is the colloquial name for the Central Criminal Court of England and Wales, which deals with with major criminal cases in Greater London, and also sometimes from the rest of England and Wales. This court has existed in some form or another since the 16th century.
 
@@ -13,3 +20,7 @@ Since all the text of the trials from 1674 to 1913 are available, we can ask the
 The goal of this project is to explore classifiers that predict the outcomes of trials. That is, the instances for classification are the transcripts of trials, and the labels are either guilty (denoted by 0) or not guilty (denoted by 1).
 
 To this end, you will use various feature representations of the data (including ones you may develop) and the different learning algorithms we see in class.
+
+## Acknowledgements
+
+
