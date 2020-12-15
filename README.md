@@ -36,6 +36,7 @@ Additionally, I used XGBoost, scikit-learn, and PyTorch to implement these algor
 2. [Random Forrest](https://github.com/mkcyoung/old-bailey-decisions/blob/main/code/neural%20net%20and%20random%20forest/pytorch.ipynb)
 3. [XGBoost](https://github.com/mkcyoung/old-bailey-decisions/blob/main/code/gradient%20boosting/XGBoost.ipynb)
   
-Ultimately, an [ensemble](https://github.com/mkcyoung/old-bailey-decisions/blob/main/code/ensemble/logistic_regression.ipynb) of Perceptron, Logistic Regression, and SVM yielded the best performance on the evaluation set and resulted in 2nd place in the final standings.
+Ultimately, an [ensemble](https://github.com/mkcyoung/old-bailey-decisions/blob/main/code/ensemble/logistic_regression.ipynb) of Perceptron, Logistic Regression, and SVM yielded the best performance on the evaluation set and resulted in **2nd place** in the final standings.
 
 ## Acknowledgements
+This was the final project of *CS 6350: Machine Learning* taught by Vivek Srikumar at the University of Utah.
