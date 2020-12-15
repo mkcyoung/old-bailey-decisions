@@ -2,7 +2,7 @@
 
 [View project on kaggle](https://www.kaggle.com/c/uofu-ml-fall-2020/overview)
 
-[View leaderboard](https://www.kaggle.com/c/uofu-ml-fall-2020/leaderboard)
+[Leaderboard (#2 out of 103)](https://www.kaggle.com/c/uofu-ml-fall-2020/leaderboard)
 
 [Project report](Project-Final-Report.pdf)
 
